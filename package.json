@@ -14,12 +14,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ndcheng0/node-irc.git"
+    "url": "git+https://github.com/ndcheng0/node-irc.git"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndcheng0/node-irc/issues"
+  },
+  "homepage": "https://github.com/ndcheng0/node-irc#readme",
+  "devDependencies": {},
+  "author": ""
 }
