@@ -1,1 +1,1 @@
-web: node ircbot.js
+node ircbot.js
